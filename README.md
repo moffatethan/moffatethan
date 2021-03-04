@@ -1,5 +1,10 @@
-### Hi there 👋
+## I'm Ethan! :wave:
 
-My name is Ethan and I am creating all sorts of things. Looking to get into the industry. Teaching myself programming for 7 years.
+🎊 Hello world!
 
-Lost in Canada. 🇨🇦
+- :hammer_and_pick: JavaScript, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
+- :package: Currently building a budgeting app and real estate transaction management and much more.
+- :book: Currently reading The Ruby on Rails Tutorial by Michael Hartl to refresh my Rails skills. (LOVE IT)
+- :flag_jp: Currently learning Japanese, been to Japan once!
+
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moffatethan)](https://github.com/anuraghazra/github-readme-stats)
