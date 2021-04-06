@@ -2,7 +2,9 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: JavaScript, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
+I have been teaching myself programming for about 7 years now. I am passionate on building projects with great design, good user experience, and apps that give me a challenge to do better.
+
+- :hammer_and_pick: JavaScript, React, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
 - :package: Currently building a budgeting app and real estate transaction management and much more.
 - :book: Currently reading The Ruby on Rails Tutorial by Michael Hartl to refresh my Rails skills. (LOVE IT)
 - 🇯🇵 Currently learning Japanese, been to Japan once!
