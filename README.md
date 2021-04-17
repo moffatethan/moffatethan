@@ -6,7 +6,7 @@ I have been teaching myself programming for about 7 years now. I am passionate o
 
 - :hammer_and_pick: JavaScript, React, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
 - :package: Currently building a budgeting app
-- :book: Currently reading Effective TypeScript by Dan Vanderkam
+- :book: Currently reading Effective TypeScript by Dan Vanderkam & Fullstack React with Typescript
 - 🇯🇵 Currently learning Japanese, been to Japan once! こにちわ、わたしのなまえいーすん。よろしくおねがいします!
 - ⚡ Fun fact! How I started programming was I went to a website and saw a cool animation and just Googled how to do that and years later... I am still Googling.
 
