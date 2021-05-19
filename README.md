@@ -2,7 +2,7 @@
 
 🎊 Hello world!
 
-I have been teaching myself programming for about 7 years now. I am passionate on building projects with great design, good user experience, and apps that give me a challenge to do better.
+I’m a software developer living in Canada. I build beautiful websites. I am passionate on building projects with great design, good user experience, and apps that give me a challenge to do better.
 
 - :hammer_and_pick: JavaScript, React, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
 - :package: Currently building a budgeting app
