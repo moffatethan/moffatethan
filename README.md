@@ -4,7 +4,7 @@
 
 I’m a software developer living in Canada. I build beautiful websites. I am passionate on building projects with great design, good user experience, and apps that give me a challenge to do better.
 
-- :hammer_and_pick: JavaScript, React, Ruby, Ruby on Rails, Node.js, MongoDB, Postgres, Elixir, TailwindCSS, UI/UX
+- :hammer_and_pick: Javascript, TypeScript, React, Elixir, Phoenix Framework, Node.js, Python, MongoDB, Postgres, TailwindCSS, UI/UX
 - :package: Currently building a budgeting app
 - :book: Currently reading Effective TypeScript by Dan Vanderkam & Fullstack React with Typescript
 - 🇯🇵 Currently learning Japanese, been to Japan once! こにちわ、わたしのなまえいーすん。よろしくおねがいします!
