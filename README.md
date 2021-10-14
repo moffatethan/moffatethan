@@ -6,7 +6,6 @@ I’m a software developer living in Canada. I build beautiful websites. I am pa
 
 - :hammer_and_pick: Javascript, TypeScript, React, Elixir, Phoenix Framework, Node.js, Python, MongoDB, Postgres, TailwindCSS, UI/UX
 - :package: Currently helping developers get jobs in tech - https://www.hatchways.io
-- :book: Currently reading Effective TypeScript by Dan Vanderkam & Fullstack React with Typescript
 - 🇯🇵 Currently learning Japanese, been to Japan once! こにちわ、わたしのなまえいーすん。よろしくおねがいします!
 - ⚡ Fun fact! How I started programming was I went to a website and saw a cool animation and just Googled how to do that and years later... I am still Googling.
 
