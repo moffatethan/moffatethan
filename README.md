@@ -8,5 +8,3 @@ I’m a software developer living in Canada. I build beautiful websites. I am pa
 - :package: Currently helping families get help for their children on the autism spectrum at https://elemy.com
 - 🇯🇵 Currently learning Japanese, been to Japan once! こにちわ、わたしのなまえいーすん。よろしくおねがいします!
 - ⚡ Fun fact! How I started programming was I went to a website and saw a cool animation and just Googled how to do that and years later... I am still Googling.
-
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=moffatethan)](https://github.com/anuraghazra/github-readme-stats)
